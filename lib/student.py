@@ -1,5 +1,5 @@
 class Student:
-    pass
+    def __init__(self)
 
 class ChattyStudent(Student):
     pass
